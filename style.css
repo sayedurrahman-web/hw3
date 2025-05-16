@@ -1,0 +1,27 @@
+body{
+    margin: o auto;
+    background-color: rgb(47, 225, 225);
+    width: 840px;
+
+}
+h1{
+    background-color: tomato;
+    text-align: center;
+    font-size: 3rem;
+    
+}
+.line{
+    display: flex;
+    justify-content: space-between;
+
+}
+.line a{
+    text-decoration: none;
+    color: rgb(232, 22, 169);
+    border: 2px solid salmon;
+    background-color: black;
+    box-shadow: 2px coral;
+}
+a:hover{
+    color: blueviolet;
+}
